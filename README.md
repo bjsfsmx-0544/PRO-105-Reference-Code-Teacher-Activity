@@ -1,6 +1,6 @@
 # PROC105-V1-actividad-maestra3
 Python. OpenCV.  
-Código de referencia para la actividad de a maestra.  
+Código de referencia para la actividad de la maestra.  
   
 Lesson plan.  
   
